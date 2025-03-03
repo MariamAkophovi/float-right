@@ -1,0 +1,28 @@
+.foto1 {
+    float: right;
+}
+.foto2 {
+    float: left;
+}
+.foto3 {
+    float: none;
+}
+
+
+.div1 {
+    background: red;
+    float: left;
+    padding: 15px; 
+}
+  
+.div2 {
+    background: yellow;
+    float: left;
+    padding: 15px; 
+}
+  
+.div3 {
+    background: green;
+    float: left;
+    padding: 15px; 
+}
